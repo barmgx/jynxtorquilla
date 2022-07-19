@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Go to [Contact page](https://barmgx.github.io/jynxtorquilla/about/contact-us/)
+Go to [Contact page](https://barmgx.github.io/jynxtorquilla/about/contact-us.html)
 
 You can use the [editor on GitHub](https://github.com/barmgx/jynxtorquilla/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
